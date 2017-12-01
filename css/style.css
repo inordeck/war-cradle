@@ -4,6 +4,15 @@
   Author: BootstrapMade.com
   License: https://bootstrapmade.com/license/
 */
+
+/*
+  FONTS:
+  font-family: 'Oswald', sans-serif;
+  font-weight: 400, 700;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400, 400i, 800;
+*/
+
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -29,8 +38,8 @@ p {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Poppins", sans-serif;
-  font-weight: 400;
+  font-family: "Oswald", sans-serif;
+  font-weight: 700;
   margin: 0 0 20px 0;
   padding: 0;
 }
@@ -101,7 +110,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0;
   padding: 6px 0;
   line-height: 1;
-  font-family: "Poppins", sans-serif;
+  font-family: "Oswald", sans-serif;
   font-weight: 700;
   letter-spacing: 3px;
   text-transform: uppercase;
@@ -158,7 +167,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   line-height: 56px;
   letter-spacing: 2px;
-  /* text-transform: uppercase; */
+  text-transform: uppercase;
   color: #ccc;
 }
 
@@ -186,9 +195,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .btn-get-started {
-  font-family: "Poppins", sans-serif;
+  font-family: "Oswald", sans-serif;
   text-transform: uppercase;
-  font-weight: 500;
+  font-weight: 400;
   font-size: 16px;
   letter-spacing: 1px;
   display: inline-block;
@@ -282,7 +291,7 @@ h1, h2, h3, h4, h5, h6 {
   text-decoration: none;
   display: inline-block;
   color: #fff;
-  font-family: "Poppins", sans-serif;
+  font-family: "Oswald", sans-serif;
   font-weight: 400;
   text-transform: uppercase;
   font-size: 13px;
@@ -570,7 +579,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 #facts .counters p {
   padding: 0;
   margin: 0 0 20px 0;
-  font-family: "Poppins", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-weight: 400;
   font-size: 14px;
 }
 
@@ -672,9 +682,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #call-to-action .cta-btn,
 #quote .cta-btn {
-  font-family: "Poppins", sans-serif;
+  font-family: "Oswald", sans-serif;
   text-transform: uppercase;
-  font-weight: 500;
+  font-weight: 400;
   font-size: 16px;
   letter-spacing: 1px;
   display: inline-block;
@@ -852,9 +862,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #buy .btn-buy-now {
-  font-family: "Poppins", sans-serif;
+  font-family: "Oswald", sans-serif;
   text-transform: uppercase;
-  font-weight: 500;
+  font-weight: 400;
   font-size: 16px;
   letter-spacing: 1px;
   display: inline-block;
@@ -924,9 +934,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .btn-buy-now {
-  font-family: "Poppins", sans-serif;
+  font-family: "Oswald", sans-serif;
   text-transform: uppercase;
-  font-weight: 500;
+  font-weight: 400;
   font-size: 16px;
   letter-spacing: 1px;
   display: inline-block;
